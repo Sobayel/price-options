@@ -16,7 +16,7 @@ const Navbar = () => {
 
 
     return (
-        <nav className="text-black p-6 bg-yellow-200">
+        <nav className="text-black p-6 bg-blue-400">
             <div className="md:hidden text-3xl" onClick={() => setOpen(!open)}>
                 {
                     open === true? <AiTwotoneCloseSquare></AiTwotoneCloseSquare>
