@@ -13,7 +13,7 @@ function App() {
     <DaisyNav></DaisyNav>
     <PriceOptions></PriceOptions>
     <LineChart></LineChart>
-    {/* <Phones></Phones> */}
+    <Phones></Phones>
     </>
   )
 }
